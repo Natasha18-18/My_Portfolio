@@ -16,7 +16,7 @@ const Navbar = () => {
       <div className="max-w-6xl mx-auto px-4 py-3 flex justify-between items-center">
 
         {/* Logo */}
-        <h1 className="text-4xl font-bold text-white">
+        <h1 className="text-5xl font-bold text-white">
          Natasha<span className="text-purple-500">.dev</span>
         </h1>
 
@@ -37,7 +37,7 @@ const Navbar = () => {
         {/* Mobile Button */}
         <button
           onClick={() => setIsOpen(!isOpen)}
-          className="md:hidden text-2xl text-gray-900"
+          className="md:hidden text-2xl text-purple-500"
         >
           {isOpen ? "✖" : "☰"}
         </button>

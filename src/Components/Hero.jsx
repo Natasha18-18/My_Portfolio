@@ -5,9 +5,9 @@ const Hero = () => {
     return (
         <section
             id="home"
-            className="min-h-screen bg-[#020617] text-white flex items-center pt-24"
+            className="min-h-screen bg-[#020617] text-white flex items-center pt-20"
         >
-            <div className="max-w-7xl mx-auto w-full px-6 grid grid-cols-1 md:grid-cols-2 gap-14 items-center py-5">
+            <div className="max-w-7xl mx-auto w-full px-6 grid grid-cols-1 md:grid-cols-2 gap-14 items-center py-3">
 
                 {/* LEFT CONTENT */}
                 <div className="text-center md:text-left order-2 md:order-1 px-20">

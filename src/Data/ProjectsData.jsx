@@ -15,7 +15,7 @@ export const projects = [
   // },
   {
     title: "AI ChatBot",
-    description: "Real-time currency conversion using API integration.",
+    description: "An intelligent AI-powered chatbot with real-time responses, interactive conversations, and modern UI design.",
     tech: ["React", "API", "CSS"],
     github: "https://github.com/Natasha18-18/Ai-Chatbot",
     live: "https://ai-chatbot-lron.vercel.app",
